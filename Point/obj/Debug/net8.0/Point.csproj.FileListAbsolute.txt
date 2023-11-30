@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab3\Point\bin\Debug\net8.0\Point.exe
+D:\codes\asd\ConsoleLab3\Point\bin\Debug\net8.0\Point.deps.json
+D:\codes\asd\ConsoleLab3\Point\bin\Debug\net8.0\Point.runtimeconfig.json
+D:\codes\asd\ConsoleLab3\Point\bin\Debug\net8.0\Point.dll
+D:\codes\asd\ConsoleLab3\Point\bin\Debug\net8.0\Point.pdb
+D:\codes\asd\ConsoleLab3\Point\obj\Debug\net8.0\Point.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab3\Point\obj\Debug\net8.0\Point.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab3\Point\obj\Debug\net8.0\Point.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab3\Point\obj\Debug\net8.0\Point.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab3\Point\obj\Debug\net8.0\Point.dll
+D:\codes\asd\ConsoleLab3\Point\obj\Debug\net8.0\refint\Point.dll
+D:\codes\asd\ConsoleLab3\Point\obj\Debug\net8.0\Point.pdb
+D:\codes\asd\ConsoleLab3\Point\obj\Debug\net8.0\Point.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab3\Point\obj\Debug\net8.0\ref\Point.dll
